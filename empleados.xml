@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleados>
+    <empleado id="1">
+        <nombre>Cristhian</nombre>
+        <apellido>González</apellido>
+        <sueldo>1200.99</sueldo>
+    </empleado>
+    <empleado id="2">
+        <nombre>Johanna</nombre>
+        <apellido>González</apellido>
+        <sueldo>1200.99</sueldo>
+    </empleado>
+    <empleado id="3">
+        <nombre>Javier</nombre>
+        <apellido>González</apellido>
+        <sueldo>1200.99</sueldo>
+    </empleado>
+    <empleado id="4">
+        <nombre>Ligia</nombre>
+        <apellido>González</apellido>
+        <sueldo>1200.99</sueldo>
+    </empleado>
+</empleados>

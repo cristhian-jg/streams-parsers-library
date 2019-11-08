@@ -1,0 +1,10 @@
+<list>
+  <employee nombre="Cristhian">
+    <apellido>González</apellido>
+    <sueldo>1200.0</sueldo>
+  </employee>
+  <employee nombre="Johanna">
+    <apellido>González</apellido>
+    <sueldo>1200.0</sueldo>
+  </employee>
+</list>
